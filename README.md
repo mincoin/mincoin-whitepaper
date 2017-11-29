@@ -1,0 +1,1 @@
+mincoin-whitepaper.en.md

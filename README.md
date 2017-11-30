@@ -1,1 +1,1 @@
-mincoin-whitepaper.en.md
+Available in English, French and Portuguese

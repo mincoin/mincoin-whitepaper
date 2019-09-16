@@ -1,1 +1,1 @@
-Available in English, French and Portuguese
+The Mincoin Whitepaper Available in English, French, German and Portuguese
